@@ -1,0 +1,96 @@
+body {
+    background-color: skyblue;
+}
+
+h1 {
+    font-size: 68px;
+    color: purple;
+    text-align: center;
+    font-family: 'Bowlby One SC', cursive;
+    margin: 30px;
+}
+
+p {
+    font-family: 'Baloo Tammudu 2', cursive;
+}
+
+.question-container {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    width: 70%;
+    border: 3px;
+    margin-top: 50px;
+}
+
+.question-container h2 {
+    font-family: 'Baloo Tammudu 2', cursive;
+    font-size: 24px;
+}
+
+.question-container button {
+    border: 2px outset #ffffff;
+    height:50px;
+    width:50px;
+    cursor:pointer;
+    font-family: 'Baloo Tammudu 2', cursive;
+    font-size: 24px;
+    background-color: purple;
+    color: #fff;
+    border-radius: 30px;
+    margin: 0px 20px 0px 20px;
+}
+
+.small-img {
+    width: 100px;
+    height: auto:
+    display: inline-block;
+    margin: 20px;
+}
+
+.correct {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    width: 70%;
+    border: 3px;
+    margin-top: 50px;
+}
+
+.correct h2 {
+    font-size: 52px;
+    color: purple;
+    text-align: center;
+    font-family: 'Bowlby One SC', cursive;
+    margin: 30px;
+}
+
+.correct button {
+    border: 2px outset #ffffff;
+    cursor:pointer;
+    font-family: 'Baloo Tammudu 2', cursive;
+    font-size: 24px;
+    line-height: 24px;
+    background-color: purple;
+    color: #fff;
+    border-radius: 10px;
+    margin: 0px 20px 0px 20px;
+    padding: 20px 10px 10px 10px;
+}
+
+.incorrect {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    width: 70%;
+    border: 3px;
+    margin-top: 50px;
+}
+
+.incorrect h2 {
+    font-size: 52px;
+    color: purple;
+    text-align: center;
+    font-family: 'Bowlby One SC', cursive;
+    margin: 30px;
+}
